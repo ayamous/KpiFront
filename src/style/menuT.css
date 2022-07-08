@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+.input_basic {
+  background: #fff;
+  border: none;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.menuT {
+  height: 95px;
+  opacity: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 15px;
+  position: relative;
+}
+
+.menuT .bAll {
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#F8F9FF)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 7px #00000017;
+          box-shadow: 0px 3px 7px #00000017;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.menuT .dvHori {
+  margin-top: 2px;
+  position: relative;
+}
+
+.menuT .dvHori .vll {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  left: 204px;
+  top: 14px;
+  position: absolute;
+}
+
+.menuT .dvHori .vlll {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  top: 14px;
+  left: 434px;
+  position: absolute;
+}
+
+.menuT .dvbr {
+  margin-bottom: 2px;
+  position: relative;
+}
+
+.menuT .dvbr .vllll {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  left: 204px;
+  position: absolute;
+  top: 10px;
+}
+
+.menuT .dvbr .vlllll {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  left: 434px;
+  position: absolute;
+  top: 10px;
+}
+
+.menuT button {
+  width: 186px;
+  height: 38px;
+  background: transparent;
+  border-radius: 7px;
+  opacity: 1;
+  margin-top: 3px;
+  border: none;
+  margin-right: 39px;
+}
+
+.menuT .cbtn {
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 3px 7px #00000017;
+          box-shadow: 0px 3px 7px #00000017;
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#F8F9FF)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+  width: 73%;
+  margin-left: 10%;
+  margin-top: -21px;
+  margin-bottom: 46px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  opacity: 1;
+}
+
+.menuT .cbtn .vl {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  left: 50%;
+  top: 8px;
+  position: absolute;
+}
+
+.menuT .cbtn .cbtn-left .cbtn_user {
+  width: 171px;
+  height: 36px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  font-weight: 600;
+  font-size: 14px;
+  color: #000;
+  border: none;
+  margin-top: 2px;
+  margin-left: 5px;
+  font-family: "Lato", sans-serif;
+}
+
+.menuT .cbtn .cbtn-left .actif {
+  background: #C82345 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.menuT .cbtn .cbtn-right {
+  padding: 0px;
+}
+
+.menuT .cbtn .cbtn-right .cbtn_entity {
+  width: 171px;
+  height: 36px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+  border: none;
+  margin-top: 2px;
+  margin-left: 15px;
+  font-family: "Lato", sans-serif;
+}
+
+.menuT .cbtn .cbtn-right .actif {
+  background: #C82345 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.menu .dvHori .actif {
+  background: #C82345 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  color: #fff;
+}
+/*# sourceMappingURL=menuT.css.map */

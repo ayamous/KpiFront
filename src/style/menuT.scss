@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import './variables/variables.scss';
+
+    
+    .menuT{
+        height: 95px;
+        opacity: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 15px;
+        position: relative;
+      
+    .bAll{
+        background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+            box-shadow: 0px 3px 7px #00000017;
+            border-radius: 10px;
+            opacity: 1;
+    }
+
+        .dvHori{
+            margin-top: 2px;
+            position: relative;
+            
+            .vll {
+                border-left: 1px solid #bebaba;
+                height: 23px;
+                left: 204px;
+                top: 14px;
+                position: absolute;
+            }
+    
+            .vlll {
+                border-left: 1px solid #bebaba;
+                height: 23px;
+                top: 14px;
+                left: 434px;
+                position: absolute;
+            }
+        }
+
+        .dvbr{
+            margin-bottom: 2px;
+            position: relative;
+            .vllll{
+                border-left: 1px solid #bebaba;
+                height: 23px;
+                left: 204px;
+                position: absolute;
+                top: 10px;
+            }
+    
+            .vlllll{
+                border-left: 1px solid #bebaba;
+                height: 23px;
+                left: 434px;
+                position: absolute;
+                top: 10px;
+            }
+        }
+         
+        
+     button{
+        width: 186px;
+        height: 38px;
+        background: transparent;
+        border-radius: 7px;
+        opacity: 1;
+        margin-top: 3px;
+        border: none;
+        margin-right: 39px;
+    }
+
+
+    
+
+    .cbtn{
+        border-radius: 10px;
+        box-shadow: 0px 3px 7px #00000017;
+        background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+        width: 73%;
+        margin-left: 10%;
+        margin-top: -21px;
+        margin-bottom: 46px;
+        display: flex;
+        position: relative;
+        opacity: 1;
+        //background: rebeccapurple;
+        .vl{
+            border-left: 1px solid #bebaba;
+            height: 23px;
+            left: 50%;
+            top: 8px;
+            position: absolute;
+        }
+        .cbtn-left{
+            .cbtn_user{
+                width: 171px;
+                height: 36px;
+                background: #FFFFFF 0% 0% no-repeat padding-box;
+                border-radius: 7px;
+                opacity: 1;
+                font-weight: 600;
+                font-size: 14px;
+                color: #000;
+                border: none;
+                margin-top: 2px;
+                margin-left: 5px;
+                font-family: $font-lato;
+            }
+            .actif{
+                background: #C82345 0% 0% no-repeat padding-box;
+                border-radius: 10px;
+                color: #fff;
+            }
+        }
+
+        .cbtn-right{
+            padding: 0px;
+            .cbtn_entity{
+                width: 171px;
+                height: 36px;
+                background: #FFFFFF 0% 0% no-repeat padding-box;
+                border-radius: 7px;
+                opacity: 1;
+                font-weight: 500;
+                font-size: 14px;
+                color: #000;
+                border: none;
+                margin-top: 2px;
+                margin-left: 15px;
+                font-family: $font-lato;                
+            }
+
+            .actif{
+                background: #C82345 0% 0% no-repeat padding-box;
+                border-radius: 10px;
+                color: #fff;
+            }
+        }
+        
+       
+    }
+
+
+
+    
+        
+
+    }
+
+    .menu .dvHori .actif {
+        background: #C82345 0% 0% no-repeat padding-box;
+        border-radius: 10px;
+        color: #fff;
+    }
+
+    
+
+    

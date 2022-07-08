@@ -1,0 +1,21 @@
+<svg id="Component_30_1" data-name="Component 30 – 1" xmlns="http://www.w3.org/2000/svg" width="70.532" height="89.769" viewBox="0 0 70.532 89.769">
+  <g id="Group_2173" data-name="Group 2173" transform="translate(0 0)">
+    <g id="Group_2151" data-name="Group 2151" transform="translate(0 0)">
+      <path id="Path_2191" data-name="Path 2191" d="M162.638,1294.151H108.979a1,1,0,0,0-.231-.118c-5.3-1.126-8.2-4.687-8.2-10.089q0-34.756,0-69.512a9.592,9.592,0,0,1,10.017-10.046q18.542-.008,37.085,0h.975v1.077c0,5.7.08,11.4-.034,17.092-.057,2.854,1.32,4.366,4.261,4.306,5.755-.116,11.513-.034,17.271-.034h.947v28.542c0,9.642.016,19.284-.008,28.927a9.357,9.357,0,0,1-5.77,9.031A19.264,19.264,0,0,1,162.638,1294.151Z" transform="translate(-100.544 -1204.383)" fill="#e5252a"/>
+      <path id="Path_2192" data-name="Path 2192" d="M272.176,1224.753H258.525V1211.1Z" transform="translate(-203.954 -1208.782)" fill="#e5252a"/>
+    </g>
+    <text id="PDF" transform="translate(19.266 57.65)" fill="#fff" font-size="17" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">PDF</tspan></text>
+  </g>
+  <g id="Group_2158" data-name="Group 2158" transform="translate(-1523.696 -497.666)" opacity="0">
+    <g id="Group_174" data-name="Group 174" transform="translate(1544 528)">
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="14.5" cy="15" rx="14.5" ry="15" transform="translate(0.196 0.023)" fill="#ffe9e9"/>
+    </g>
+    <g id="Group_2086" data-name="Group 2086" transform="translate(1549.822 534.147)">
+      <g id="Group_167" data-name="Group 167" transform="translate(0 8.874) rotate(-45)">
+        <g id="Group_127" data-name="Group 127" transform="translate(0 0)">
+          <path id="Path_1331" data-name="Path 1331" d="M11.5,5.229H7.321V1.046a1.046,1.046,0,1,0-2.092,0V5.229H1.046a1.046,1.046,0,1,0,0,2.092H5.229V11.5a1.046,1.046,0,1,0,2.092,0V7.321H11.5a1.046,1.046,0,1,0,0-2.092Z" transform="translate(0 0)" fill="#e10606"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

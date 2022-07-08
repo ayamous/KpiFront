@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+.input_basic {
+  background: #fff;
+  border: none;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.userList {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #FFFFFF;
+  width: 94% !important;
+  margin-top: 47px;
+}
+
+.userList .cbtn {
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 3px 7px #00000017;
+          box-shadow: 0px 3px 7px #00000017;
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#F8F9FF)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+  width: 73%;
+  margin-left: 10%;
+  margin-top: -21px;
+  margin-bottom: 46px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  opacity: 1;
+}
+
+.userList .cbtn .vl {
+  border-left: 1px solid #bebaba;
+  height: 23px;
+  left: 50%;
+  top: 8px;
+  position: absolute;
+}
+
+.userList .cbtn .cbtn-left .cbtn_user {
+  width: 171px;
+  height: 36px;
+  background: #C82345 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  border: none;
+  margin-top: 2px;
+  margin-left: 5px;
+  font-family: "Lato", sans-serif;
+}
+
+.userList .cbtn .cbtn-right {
+  padding: 0px;
+}
+
+.userList .cbtn .cbtn-right .cbtn_entity {
+  width: 171px;
+  height: 36px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+  border: none;
+  margin-top: 2px;
+  margin-left: 15px;
+  font-family: "Lato", sans-serif;
+}
+
+.userList .form {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 71px;
+}
+
+.userList .btn:hover {
+  color: #fff;
+}
+
+.userList .input-text:focus {
+  -webkit-box-shadow: 0px 0px 0px;
+          box-shadow: 0px 0px 0px;
+  border-color: #f8c146;
+  outline: 0px;
+}
+
+.userList .form-control {
+  border: 1px solid #f8c146;
+}
+/*# sourceMappingURL=listUsers.css.map */

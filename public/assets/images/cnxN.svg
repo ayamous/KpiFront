@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227" height="88" viewBox="0 0 227 88">
+  <defs>
+    <filter id="Rectangle_452" x="0" y="0" width="227" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b75065" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d5123a" stop-opacity="0.078"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2645" data-name="Group 2645" transform="translate(14103 12793)">
+    <g transform="matrix(1, 0, 0, 1, -14103, -12793)" filter="url(#Rectangle_452)">
+      <rect id="Rectangle_452-2" data-name="Rectangle 452" width="209" height="70" rx="7" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_2375" data-name="Group 2375" transform="translate(-15755 -12914)">
+      <rect id="Rectangle_494" data-name="Rectangle 494" width="70" height="209" rx="7" transform="translate(1870 127) rotate(90)" opacity="0" fill="url(#linear-gradient)"/>
+      <text id="Se_Déconnecter" data-name="Se Déconnecter" transform="translate(1783 167)" fill="#d5123a" font-size="13" font-family="Lato-Heavy, Lato" font-weight="800" opacity="0.83"><tspan x="-46.196" y="0">Se Déconnecter</tspan></text>
+      <g id="Group_185" data-name="Group 185" transform="translate(1704.841 154)">
+        <path id="Path_1368" data-name="Path 1368" d="M2540.836,1328.093v13.535h-.213c-1.352,0-2.7,0-4.056,0a.611.611,0,0,0-.6.825.573.573,0,0,0,.556.4c1.474.005,2.948.014,4.421,0a1.213,1.213,0,0,0,1.135-1.231q0-3.719,0-7.438v-6.035a1.232,1.232,0,0,0-1.279-1.285q-2.1,0-4.21,0a.619.619,0,0,0-.619.844.63.63,0,0,0,.629.385h4.241Z" transform="translate(-2526.067 -1326.862)" fill="#d5123a"/>
+        <path id="Path_1369" data-name="Path 1369" d="M2597.991,1395.5H2608a1.4,1.4,0,0,0,.249-.011.614.614,0,0,0-.081-1.218c-.064,0-.128,0-.192,0h-10.03c.069-.076.112-.127.16-.174q1.427-1.428,2.856-2.854a.664.664,0,0,0,.229-.469.577.577,0,0,0-.329-.564.593.593,0,0,0-.667.068,1.7,1.7,0,0,0-.153.146l-4.016,4a.619.619,0,0,0,0,.92q2.022,2.015,4.046,4.028a.921.921,0,0,0,.383.234.579.579,0,0,0,.665-.3.624.624,0,0,0-.125-.741q-1.439-1.443-2.883-2.881a1.338,1.338,0,0,0-.169-.124Z" transform="translate(-2595.826 -1386.887)" fill="#d5123a"/>
+      </g>
+    </g>
+  </g>
+</svg>

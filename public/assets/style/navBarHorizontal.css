@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+.input_basic {
+  background: #fff;
+  border: none;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.input_basic {
+  background: #fff;
+  border: none;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.navBarHorizontalCls {
+  margin-top: 26px;
+  margin-left: 30px;
+}
+
+.navBarHorizontalCls .h2Cls {
+  width: 80%;
+  height: 50px;
+  background: #FFE2E2 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 6px 20px #C1CFD933;
+          box-shadow: 0px 6px 20px #C1CFD933;
+  border-radius: 10px 260px 0px 0px;
+  opacity: 1;
+}
+
+.navBarHorizontalCls .h2Cls h2 {
+  text-align: left;
+  font: normal normal 900 30px/36px Lato;
+  letter-spacing: 0px;
+  color: #A82835;
+  text-transform: uppercase;
+  opacity: 1;
+  padding-left: 25px;
+  font-size: 19px;
+  padding-top: 7px;
+}
+
+.navBarHorizontalCls .imgCls {
+  width: 20%;
+}
+
+.navBarHorizontalCls img {
+  -webkit-box-pack: justify !important;
+      -ms-flex-pack: justify !important;
+          justify-content: space-between !important;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  width: 18%;
+}
+
+.navBarHorizontalCls .imgPro {
+  width: 15%;
+}
+
+.navBarHorizontalCls span {
+  width: 107px;
+  text-align: left;
+  font-weight: 700;
+  letter-spacing: 0.73px;
+  color: #242424;
+  padding-top: 21px;
+  font-size: 11px;
+  opacity: 1;
+}
+/*# sourceMappingURL=navBarHorizontal.css.map */

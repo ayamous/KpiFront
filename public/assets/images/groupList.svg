@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="266.642" height="77.299" viewBox="0 0 266.642 77.299">
+  <defs>
+    <filter id="Frame_2_Background_Mask_" x="0" y="0" width="266.642" height="77.299" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#4a4a4a" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1973" data-name="Group 1973" transform="translate(-763.188 -237.701)">
+    <g transform="matrix(1, 0, 0, 1, 763.19, 237.7)" filter="url(#Frame_2_Background_Mask_)">
+      <path id="Frame_2_Background_Mask_2" data-name="Frame 2 (Background/Mask)" d="M4.216,0H238.425a4.112,4.112,0,0,1,4.216,4V49.3a4.112,4.112,0,0,1-4.216,4H4.216A4.113,4.113,0,0,1,0,49.3V4A4.113,4.113,0,0,1,4.216,0Z" transform="translate(12 6)" fill="#e45d6f"/>
+    </g>
+    <g id="Group_169" data-name="Group 169" transform="translate(854.891 260.85)">
+      <text id="Disabled" transform="translate(62 16)" fill="#fff" font-size="16" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-63.612" y="0">Liste des groupes </tspan></text>
+    </g>
+    <g id="list" transform="translate(796.713 263.362)">
+      <path id="Path_1332" data-name="Path 1332" d="M27.263,47.746H14.846a.926.926,0,1,1,0-1.853H27.262a.926.926,0,0,1,0,1.853Z" transform="translate(-9.622 -34.016)" fill="#fff"/>
+      <path id="Path_1333" data-name="Path 1333" d="M27.263,28.915H14.846a.926.926,0,1,1,0-1.853H27.262a.926.926,0,0,1,0,1.853Z" transform="translate(-9.622 -21)" fill="#fff"/>
+      <path id="Path_1334" data-name="Path 1334" d="M27.263,10.084H14.846a.926.926,0,1,1,0-1.853H27.262a.926.926,0,0,1,0,1.853Z" transform="translate(-9.622 -7.985)" fill="#fff"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="1.244" cy="1.244" r="1.244" transform="translate(0 0)" fill="#fff"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="1.244" cy="1.244" r="1.244" transform="translate(0 5.744)" fill="#fff"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.244" cy="1.244" r="1.244" transform="translate(0 11.488)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

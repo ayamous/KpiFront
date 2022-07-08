@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import './variables/variables.scss';
+
+    
+    .menu{
+        height: 95px;
+        opacity: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 15px;
+        position: relative;
+      
+    .bAll{
+        background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+            box-shadow: 0px 3px 7px #00000017;
+            border-radius: 10px;
+            opacity: 1;
+    }
+
+        .dvHori{
+            margin-top: 2px;
+            position: relative;
+            
+            .vll {
+                border-left: 1px solid #bebaba;
+                height: 24px;
+                top: 10px;
+                left: 204px;
+                position: absolute;
+            }
+    
+            .vlll {
+                border-left: 1px solid #bebaba;
+                height: 24px;
+                top: 10px;
+                left: 434px;
+                position: absolute;
+            }
+            .vlllll{
+                border-left: 1px solid #bebaba;
+                height: 24px;
+                top: 10px;
+                left: 636px;
+                position: absolute;
+            }
+        }
+
+        .dvbr{
+            margin-bottom: 2px;
+            position: relative;
+            .vllll{
+                border-left: 1px solid #bebaba;
+                height: 24px;
+                top: 10px;
+                left: 313px;
+                position: absolute;
+            }
+            .hoverClsA{
+                margin-left: 12%;
+            }
+            .hoverCls{
+                margin-left: 10%;
+            }
+        }
+         
+        
+     button{
+        width: 186px;
+        height: 38px;
+        background: transparent;
+        border-radius: 7px;
+        opacity: 1;
+        margin-top: 3px;
+        border: none;
+        margin-right: 39px;
+        text-align: center;
+        font: normal normal bold 15px/14px Lato;
+        letter-spacing: 0px;
+        color: #000000;
+    }   
+
+    }
+
+    .menu .dvHori .actif {
+        background: #C82345 0% 0% no-repeat padding-box;
+        border-radius: 10px;
+        color: #fff;
+    }
+
+    
+
+    

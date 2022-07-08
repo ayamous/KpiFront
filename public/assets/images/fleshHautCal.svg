@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.863" height="70.862" viewBox="0 0 70.863 70.862">
+  <defs>
+    <filter id="Rectangle_32" x="0" y="0" width="70.863" height="70.862" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#353751" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="filter" transform="translate(18.5 12.5)">
+    <g transform="matrix(1, 0, 0, 1, -18.5, -12.5)" filter="url(#Rectangle_32)">
+      <path id="Rectangle_32-2" data-name="Rectangle 32" d="M7.129,33.862H26.734a7.129,7.129,0,0,0,7.129-7.129V7.129A7.129,7.129,0,0,0,26.734,0H7.129A7.129,7.129,0,0,0,0,7.129v19.6A7.129,7.129,0,0,0,7.129,33.862Z" transform="translate(18.5 12.5)" fill="none" stroke="#23314b" stroke-width="1"/>
+    </g>
+    <path id="Arrow" d="M6.119.244.187,5.582a.535.535,0,0,0,0,.813l5.932,5.338a1,1,0,0,0,1.309,0,.776.776,0,0,0,0-1.178L2.354,5.988,7.428,1.422a.777.777,0,0,0,0-1.178,1,1,0,0,0-1.309,0" transform="translate(22.92 11.927) rotate(90)" fill="#23314b"/>
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+.input_basic {
+  background: #fff;
+  border: none;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.menu {
+  height: 95px;
+  opacity: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 15px;
+  position: relative;
+}
+
+.menu .bAll {
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#F8F9FF)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #FFFFFF 0%, #F8F9FF 100%) 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 7px #00000017;
+          box-shadow: 0px 3px 7px #00000017;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.menu .dvHori {
+  margin-top: 2px;
+  position: relative;
+}
+
+.menu .dvHori .vll {
+  border-left: 1px solid #bebaba;
+  height: 24px;
+  top: 10px;
+  left: 204px;
+  position: absolute;
+}
+
+.menu .dvHori .vlll {
+  border-left: 1px solid #bebaba;
+  height: 24px;
+  top: 10px;
+  left: 434px;
+  position: absolute;
+}
+
+.menu .dvHori .vlllll {
+  border-left: 1px solid #bebaba;
+  height: 24px;
+  top: 10px;
+  left: 636px;
+  position: absolute;
+}
+
+.menu .dvbr {
+  margin-bottom: 2px;
+  position: relative;
+}
+
+.menu .dvbr .vllll {
+  border-left: 1px solid #bebaba;
+  height: 24px;
+  top: 10px;
+  left: 313px;
+  position: absolute;
+}
+
+.menu .dvbr .hoverClsA {
+  margin-left: 12%;
+}
+
+.menu .dvbr .hoverCls {
+  margin-left: 10%;
+}
+
+.menu button {
+  width: 186px;
+  height: 38px;
+  background: transparent;
+  border-radius: 7px;
+  opacity: 1;
+  margin-top: 3px;
+  border: none;
+  margin-right: 39px;
+  text-align: center;
+  font: normal normal bold 15px/14px Lato;
+  letter-spacing: 0px;
+  color: #000000;
+}
+
+.menu .dvHori .actif {
+  background: #C82345 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  color: #fff;
+}
+/*# sourceMappingURL=menu.css.map */
